@@ -59,7 +59,7 @@ Gratulation 🥳 Du hast nun alle notwendigen Dateien! Wir sind aber noch nicht 
 
 #### Importieren der Datenbank:
 
-Steige in _phpmyadmin_ ein. _phpmyadmin_ erreichst du über folgende URL: `localhost/phpmyadmin`. Sobald man in _phpmyadmin_ eingestiegen ist, befindet sich im linken Menü eine Schaltfläche mit dem Namen _Neu_. Klicke auf diese und erstelle eine Datenbank mit dem Namen `db_kafka`.
+Steige in _phpmyadmin_ ein. _phpmyadmin_ erreichst du über folgende URL: `localhost/phpmyadmin`. Sobald man in _phpmyadmin_ eingestiegen ist, sollte man im linken Menü eine Schaltfläche mit dem Namen _Neu_ sehen können. Klicke auf diese und erstelle eine Datenbank mit dem Namen `db_kafka`.
 
 <img width="633" alt="image" src="https://user-images.githubusercontent.com/43005321/185392572-002ceb07-3902-4979-a0de-a5e5d0f10792.png">
 
@@ -102,7 +102,7 @@ Insofern keine Fehler aufgetreten sind, bist du startklar 🥳
 
 ## Fertig!
 
-Wenn du den oberen Anweisungen gut folgen konntest, dann bist du jetzt bereit **kafka** zu benutzen. Gib dafür in den Browser folgende URL ein: `localhost/projekt-kafka-main`.
+Wenn du den oberen Anweisungen gut folgen konntest, dann bist du jetzt bereit *kafka* zu benutzen. Gib dafür im Browser folgende URL ein: `localhost/projekt-kafka-main`.
 
 Falls die Bedienung unklar sein sollte, dann schau in den nächsten <a href="#bedienung">Abschnitt</a> für mehr Informationen.
 
@@ -112,16 +112,16 @@ Die Funktionsknöpfe im `header` besitzen folgende Funktion (v.l.n.r):
 * _Persönliche Zitate_: schau dir *nur* deine selbst-erstellten Zitate an. Die anderen Funktionsknöpfe funktionieren weiterhin
 * _Sortiere nach Datum (absteigend)_: die neuesten Zitate erscheinen zuerst
 * _Sortiere nach Datum (aufsteigend)_: die ältesten Zitate erscheinen zuerst
-* _Poste ein Zitat_: erstellt einen Zitat-eintrag (von **dir** erstellt) 
+* _Poste ein Zitat_: erstellt einen Zitat-eintrag (von **dir** erstellt)
 
 ## Du, als Programmierer, darfst dich auf tolle neue Funktionen freuen!
 
-**kafka** ist noch lange nicht fertig. Was heißt das konkret?
+*kafka* ist noch lange nicht fertig. Was heißt das konkret?
 
 Das bedeutet:
 * Sicherheitsupdates, die gegen PHP-Hijacking schützen!
 * Funktionsupdates, die dir mehr Freiheit beim Anpassen deines Profils schenken!
-* Layoutupdates, die die Verwendung von **kafka** noch einfacher machen!
+* Layoutupdates, die die Verwendung von *kafka* noch einfacher machen!
 
 ---
 
